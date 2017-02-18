@@ -1,7 +1,7 @@
 # Dependencies
-# markdown:         redcarpet old!
-# pygments:         true old!
 markdown:         kramdown
+pygments:         true
+
 # Permalinks
 permalink:        pretty
 
